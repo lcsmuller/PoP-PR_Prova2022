@@ -1,0 +1,8 @@
+# Ignora tudo
+*
+# Menos esses
+!.gitignore
+!*.c
+!Makefile
+!README.md
+!Prova_2022.pdf
